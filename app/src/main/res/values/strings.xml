@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zalupa Material</string>
+    <string name="zalupa_hint_username">Username</string>
+    <string name="zalupa_hint_password">Password</string>
+    <string name="zalupa_button_next">Next</string>
+    <string name="zalupa_button_cancel">Cancel</string>
+    <string name="zalupa_error_password">DOLBOEB EBANIY YA TVOYU MAMU EBAL SUKA BLYAT 8 SIMVOLOV.</string>
+    <string name="zalupa_filter_title">Filter</string>
+    <string name="shr_search_title">Search</string>
+    <string name="shr_product_title">Title</string>
+    <string name="shr_product_description">Secondary text</string>
+
+    <string name="zalupa_gondoni_label">Gondoni</string>
+    <string name="zalupa_lobki_label">Lobki</string>
+    <string name="zalupa_pisyapopa_label">PisyanPopa</string>
+    <string name="zalupa_anusi_label">Anusi</string>
+    <string name="zalupa_jopi_label">Jopi</string>
+    <string name="zalupa_penisi_label">Penisi</string>
+    <string name="zalupa_govno_label">Govno</string>
+    <string name="zalupa_account_label">My Account</string>
+    <string name="zalupa_logo_content_description">Zalupa Logo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
